@@ -1,2 +1,2 @@
 # xee
-old old eepic editor
+very old eepic editor

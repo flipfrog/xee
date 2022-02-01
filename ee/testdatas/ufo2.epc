@@ -1,0 +1,534 @@
+# EE Version 2.2
+# 'ufo2.epc'
+# All rights reserved, Copyright(C) 1993 Fujitsu limited.
+
+resolution = low;
+
+group{
+  geom = (464.000000,96.000000,24.000000,72.000000);
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (11.000000,26.000000)(16.000000,32.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (16.000000,24.000000)(12.000000,18.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (8.000000,0.000000)(10.000000,0.000000)(12.000000,19.000000)(10.000000,39.000000)(8.000000,39.000000)(6.000000,19.000000)(8.000000,0.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (18.000000,47.000000)(6.000000,54.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (18.000000,40.000000)(6.000000,47.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (18.000000,19.000000)(16.000000,21.000000)(16.000000,52.000000)(24.000000,45.000000)(22.000000,26.000000)(18.000000,19.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (2.000000,42.000000)(0.000000,72.000000)(6.000000,70.000000)(6.000000,42.000000)(2.000000,42.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (10.000000,0.000000)(10.000000,39.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (8.000000,0.000000)(8.000000,39.000000);
+}
+}
+group{
+  geom = (400.000000,96.000000,40.000000,72.000000);
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (13.000000,13.000000)(13.000000,9.000000)(14.000000,13.000000)(14.000000,9.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (16.000000,10.000000)(16.000000,9.000000)(15.000000,9.000000)(15.000000,13.000000)(16.000000,13.000000)(16.000000,12.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (18.000000,10.000000)(18.000000,9.000000)(16.000000,9.000000)(16.000000,13.000000)(18.000000,13.000000)(18.000000,12.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (18.000000,11.000000)(20.000000,11.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (20.000000,10.000000)(21.000000,9.000000)(21.000000,13.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (20.000000,13.000000)(21.000000,13.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (25.000000,13.000000)(26.000000,13.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (25.000000,10.000000)(26.000000,9.000000)(26.000000,13.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (23.000000,9.000000)(23.000000,13.000000)(24.000000,13.000000)(24.000000,9.000000)(23.000000,9.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (21.000000,10.000000)(21.000000,9.000000)(23.000000,9.000000)(22.000000,13.000000);
+}
+arc{
+  geom2 = (16.666667,54.000000,20.000000,55.636364,23.333333,54.000000);
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (28.000000,42.000000)(28.000000,68.000000)(31.000000,72.000000)(30.000000,42.000000)(28.000000,42.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (28.000000,49.000000)(21.000000,42.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (28.000000,55.000000)(21.000000,49.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (23.000000,39.000000)(23.000000,44.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (23.000000,50.000000)(23.000000,54.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (16.000000,50.000000)(16.000000,54.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (16.000000,39.000000)(16.000000,44.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (11.000000,55.000000)(18.000000,49.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (11.000000,49.000000)(18.000000,42.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (11.000000,42.000000)(11.000000,68.000000)(8.000000,72.000000)(10.000000,42.000000)(11.000000,42.000000);
+}
+oval{
+  geom = (20.000000,19.636364,20.000000,19.636364);
+  fill = false;
+}
+oval{
+  geom = (20.000000,19.636364,11.666667,13.090909);
+  fill = false;
+}
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (344.000000,244.000000)(344.000000,240.000000)(352.000000,240.000000)(348.000000,256.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (356.000000,240.000000)(356.000000,256.000000)(364.000000,256.000000)(364.000000,240.000000)(356.000000,240.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (368.000000,244.000000)(372.000000,240.000000)(372.000000,256.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (368.000000,256.000000)(376.000000,256.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (336.000000,256.000000)(344.000000,256.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (336.000000,244.000000)(340.000000,240.000000)(340.000000,256.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (324.000000,248.000000)(332.000000,248.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (320.000000,244.000000)(320.000000,240.000000)(312.000000,240.000000)(312.000000,256.000000)(320.000000,256.000000)(320.000000,252.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (308.000000,244.000000)(308.000000,240.000000)(300.000000,240.000000)(300.000000,256.000000)(308.000000,256.000000)(308.000000,252.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (288.000000,256.000000)(288.000000,240.000000)(296.000000,256.000000)(296.000000,240.000000);
+}
+group{
+  geom = (160.000000,32.000000,96.000000,176.000000);
+oval{
+  geom = (48.000000,48.000000,28.000000,32.000000);
+  fill = false;
+}
+oval{
+  geom = (48.000000,48.000000,48.000000,48.000000);
+  fill = false;
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (28.000000,104.000000)(28.000000,168.000000)(20.000000,176.000000)(24.000000,104.000000)(28.000000,104.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (28.000000,120.000000)(44.000000,104.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (28.000000,136.000000)(44.000000,120.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (40.000000,96.000000)(40.000000,108.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (40.000000,124.000000)(40.000000,132.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (56.000000,124.000000)(56.000000,132.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (56.000000,96.000000)(56.000000,108.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (68.000000,136.000000)(52.000000,120.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (68.000000,120.000000)(52.000000,104.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (68.000000,104.000000)(68.000000,168.000000)(76.000000,176.000000)(72.000000,104.000000)(68.000000,104.000000);
+}
+arc{
+  geom2 = (40.000000,132.000000,48.000000,136.000000,56.000000,132.000000);
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (52.000000,26.000000)(52.000000,24.000000)(55.000000,24.000000)(53.000000,32.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (56.000000,24.000000)(56.000000,32.000000)(59.000000,32.000000)(59.000000,24.000000)(56.000000,24.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (61.000000,26.000000)(62.000000,24.000000)(62.000000,32.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (61.000000,32.000000)(64.000000,32.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (49.000000,32.000000)(52.000000,32.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (49.000000,26.000000)(50.000000,24.000000)(50.000000,32.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (45.000000,28.000000)(48.000000,28.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (43.000000,26.000000)(43.000000,24.000000)(40.000000,24.000000)(40.000000,32.000000)(43.000000,32.000000)(43.000000,30.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (39.000000,26.000000)(39.000000,24.000000)(36.000000,24.000000)(36.000000,32.000000)(39.000000,32.000000)(39.000000,30.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (32.000000,32.000000)(32.000000,24.000000)(34.000000,32.000000)(34.000000,24.000000);
+}
+arc{
+  geom2 = (44.000000,103.000000,45.000000,111.000000,44.000000,119.000000);
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+}
+arc{
+  geom2 = (52.000000,104.000000,51.000000,112.000000,52.000000,120.000000);
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+}
+}
+group{
+  geom = (272.000000,32.000000,48.000000,176.000000);
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (23.000000,64.000000)(32.000000,80.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (32.000000,60.000000)(24.000000,44.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (16.000000,0.000000)(20.000000,0.000000)(24.000000,48.000000)(20.000000,96.000000)(16.000000,96.000000)(12.000000,48.000000)(16.000000,0.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (36.000000,116.000000)(12.000000,132.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (36.000000,100.000000)(12.000000,116.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (36.000000,48.000000)(32.000000,52.000000)(32.000000,128.000000)(48.000000,112.000000)(44.000000,64.000000)(36.000000,48.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (4.000000,104.000000)(0.000000,176.000000)(12.000000,172.000000)(12.000000,104.000000)(4.000000,104.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (20.000000,0.000000)(20.000000,96.000000);
+}
+line{
+  line_style = solid;
+  line_mode = solid;
+  arrow_size = 8.000000;
+  ball_size = 3.000000;
+  node = (16.000000,0.000000)(16.000000,96.000000);
+}
+}

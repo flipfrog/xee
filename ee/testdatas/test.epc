@@ -1,0 +1,146 @@
+# EE Version 2.2
+# 'test.epc'
+# All rights reserved, Copyright(C) 1993 Fujitsu limited.
+
+resolution = low;
+
+string{
+  geom = (48.000000,16.000000,25.223507,7.089450);
+  string = "tiny";
+  border_width = 2;
+  round_style = none;
+  font_size = tiny;
+}
+string{
+  geom = (80.000000,16.000000,32.296320,7.089450);
+  string = "タイニィ";
+  border_width = 2;
+  round_style = none;
+  font_size = tiny;
+}
+string{
+  geom = (48.000000,32.000000,74.003932,11.815750);
+  string = "scriptsize";
+  border_width = 2;
+  round_style = none;
+  font_size = scriptsize;
+}
+string{
+  geom = (144.000000,32.000000,89.799699,11.815750);
+  string = "すくりぷとさいず";
+  border_width = 2;
+  round_style = none;
+  font_size = scriptsize;
+}
+string{
+  geom = (48.000000,48.000000,85.073399,14.178900);
+  string = "footnotesize";
+  border_width = 2;
+  round_style = none;
+  font_size = footnotesize;
+}
+string{
+  geom = (144.000000,48.000000,115.203420,14.178900);
+  string = "フットノートサイズ";
+  border_width = 2;
+  round_style = none;
+  font_size = footnotesize;
+}
+string{
+  geom = (48.000000,64.000000,39.489418,14.178900);
+  string = "small";
+  border_width = 2;
+  round_style = none;
+  font_size = small;
+}
+string{
+  geom = (144.000000,64.000000,57.503379,14.178900);
+  string = "スもーる";
+  border_width = 2;
+  round_style = none;
+  font_size = small;
+}
+string{
+  geom = (48.000000,80.000000,87.685153,14.178900);
+  string = "normalsize";
+  border_width = 2;
+  round_style = none;
+  font_size = normalsize;
+}
+string{
+  geom = (144.000000,80.000000,110.418183,14.178900);
+  string = "ノーマルサイズ";
+  border_width = 2;
+  round_style = none;
+  font_size = normalsize;
+}
+string{
+  geom = (48.000000,104.000000,51.305168,18.905200);
+  string = "large";
+  border_width = 2;
+  round_style = none;
+  font_size = large;
+}
+string{
+  geom = (144.000000,104.000000,57.306434,18.905200);
+  string = "らーじ";
+  border_width = 2;
+  round_style = none;
+  font_size = large;
+}
+string{
+  geom = (48.000000,128.000000,69.028793,21.268350);
+  string = "Large";
+  border_width = 2;
+  round_style = none;
+  font_size = Large;
+}
+string{
+  geom = (144.000000,128.000000,91.374503,21.268350);
+  string = "らーじ２";
+  border_width = 2;
+  round_style = none;
+  font_size = Large;
+}
+string{
+  geom = (48.000000,160.000000,75.247658,25.994650);
+  string = "LARGE";
+  border_width = 2;
+  round_style = none;
+  font_size = LARGE;
+}
+string{
+  geom = (144.000000,160.000000,109.886474,25.994650);
+  string = "らーじ３";
+  border_width = 2;
+  round_style = none;
+  font_size = LARGE;
+}
+string{
+  geom = (48.000000,192.000000,82.088457,33.084100);
+  string = "huge";
+  border_width = 2;
+  round_style = none;
+  font_size = huge;
+}
+string{
+  geom = (144.000000,192.000000,132.336399,33.084100);
+  string = "ひゅーじ";
+  border_width = 2;
+  round_style = none;
+  font_size = huge;
+}
+string{
+  geom = (48.000000,240.000000,92.095169,37.810400);
+  string = "Huge";
+  border_width = 2;
+  round_style = none;
+  font_size = Huge;
+}
+string{
+  geom = (160.000000,240.000000,194.028084,37.810400);
+  string = "ひゅーじ２";
+  border_width = 2;
+  round_style = none;
+  font_size = Huge;
+}
